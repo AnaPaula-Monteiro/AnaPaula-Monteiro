@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Animation Generator
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
           # Cor da cobrinha: ROSA CLARO (#FFC0CB)
           color_snake: "#FFC0CB" 
           
-          # [OPCIONAL] Cor dos pontos de contribuição: Tema de rosa claro/cinza
+          # Cor dos pontos de contribuição: Tema de rosa claro/cinza
           color_dots: "#f0f0f0,#f5e0e0,#fbc0c0,#ff9c9c,#ff6a6a"
           
           outputs: |
