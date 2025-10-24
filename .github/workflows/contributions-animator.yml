@@ -1,25 +1,26 @@
-name: Animation Generator
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "*/5 * * * *" 
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
+  workflow_dispatch:      # Permite execução manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3 # Versão estável
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: AnaPaula-Monteiro
-          
-          # A cor é definida aqui
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=pink
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push new files to output branch
+      - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
