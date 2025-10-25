@@ -1,6 +1,7 @@
 ##  🌸Hello! My name is Ana Paula Monteiro
 - 🌺 My pronouns are She/Her
 - 💮 My institutional email is anapaulamaia317@usp.br
+- - 💐 I am currently studying Economics sciences at FEA-USP
 
 <div align="center">
   <img 
@@ -32,7 +33,7 @@
 
 <h3 align="center">
   <img 
-    src="https://img.shields.io/badge/Música_Atualmente_a_Tocar-FFC0CB?style=for-the-badge&logo=spotify&logoColor=191717&color=FFC0CB" 
+    src="https://img.shields.io/badge/Currently_Playing-FFC0CB?style=for-the-badge&logo=spotify&logoColor=191717&color=FFC0CB" 
     alt="Título Música Spotify em Rosa"
   />
 </p>
