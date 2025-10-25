@@ -3,6 +3,17 @@
 - 💮 My institutional email is anapaulamaia317@usp.br
 - - 💐 I am currently studying Economics sciences at FEA-USP
 
+## 🌲Tools and Languages
+
+Here are some tools and languages I am using and learning about:
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-006400?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+
+  <img src="https://img.shields.io/badge/R-006400?style=for-the-badge&logo=r&logoColor=white" alt="R Language Badge"/>
+  
+  <img src="https://img.shields.io/badge/Jupyter-006400?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+</p>
+
 <div align="center">
   <img 
     width="400" 
@@ -45,4 +56,3 @@
       alt="Música do Spotify de Ana Paula Monteiro"
     />
   </a>
-
