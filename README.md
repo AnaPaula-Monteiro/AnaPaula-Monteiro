@@ -1,7 +1,7 @@
 ##  🌸Hello! My name is Ana Paula Monteiro
 - 🌺 My pronouns are She/Her
 - 💮 My institutional email is anapaulamaia317@usp.br
-- - 💐 I am currently studying Economics sciences at FEA-USP
+-  💐 I am currently studying Economics sciences at FEA-USP
 
 ## 🌲Tools and Languages
 
