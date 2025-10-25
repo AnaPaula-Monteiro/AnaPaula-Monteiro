@@ -1,6 +1,6 @@
-##  🌸Oie! Meu nome é Ana Paula Monteiro
-- 🌺 Meus pronomes são Ela/Dela
-- 💮 Meu email institucional é anapaulamaia317@usp.br
+##  🌸Hello! My name is Ana Paula Monteiro
+- 🌺 My pronouns are She/Her
+- 💮 My institutional email is anapaulamaia317@usp.br
 
 <div align="center">
   <img 
